@@ -1,2 +1,2 @@
 # React-AuthorQuiz
-React-AuthorQuiz
+React Author Quiz
